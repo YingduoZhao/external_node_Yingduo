@@ -1,0 +1,5 @@
+#We don’t want to add the source code of other packages to our repositories. 
+#To avoid doing it, we use a file called .gitignore. 
+#gitignore lists names of files and folders that *should not* be tracked by git. 
+#the commit-out code for gitignore is #
+node_modules
